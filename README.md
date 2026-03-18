@@ -14,7 +14,8 @@
 <hr />
  
 ## 👨‍💻 About Me
-
+ 
+```javascript
 const lavanya = {
   pronouns: "she/her",
   code: ["Javascript", "ReactJS", "NodeJS", "PHP"],
@@ -22,16 +23,20 @@ const lavanya = {
   experience: "10+ years",
   location: "Bangalore, IN",
   industryExperience: [
-    "Healthcare", "E-commerce", "FinTech", "Inventory Management"
+    "Healthcare", "E-commerce", 
+    "FinTech", "Inventory Management"
   ],
-  funFact: "I've successfully launched over 20 fully functional applications!"
+  funFact: "I've successfully launched over 20+ functional applications!"
 };
 
-🔭 Currently working on enterprise-level report UIs and micro front-end solutions at Infosys.
-🌱 Learning AWS (Cloud Practitioner & Developer Associate) to master cloud-native development
-🧠 Strong experience with React.js, Node.js, and PHP frameworks like Laravel and CodeIgniter.
-⚡ Passionate about code optimization, performance improvements, and building scalable full-stack architectures.
-🎯 Goal: To leverage my experience in launching 20+ functional applications to build high-impact, global software
+ 
+<pre>
+🔭 Currently working on enterprise-level report UIs and micro front-end solutions at Infosys.<br/>
+🌱 Learning AWS (Cloud Practitioner & Developer Associate) to master cloud-native development<br/>
+🧠 Strong experience with React.js, Node.js, and PHP frameworks like Laravel and CodeIgniter.<br/>
+⚡ Passionate about code optimization, performance improvements, and building scalable full-stack architectures.<br/>
+🎯 Goal: To leverage my experience in launching 20+ functional applications to build high-impact, global software<br/>
+</pre>
 
 <hr />
 
