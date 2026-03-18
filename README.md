@@ -38,33 +38,6 @@ const lavanya = {
 
 ---
 
-
-
-## 👩‍💻 About Me
-
-```javascript
-const lavanya = {
-  pronouns: "she/her",
-  code: ["Javascript", "ReactJS", "NodeJS", "PHP"],
-  tools: ["MongoDB", "MySQL", "Redux", "RESTful APIs"],
-  experience: "10+ years",
-  location: "Bangalore, IN",
-  industryExperience: [
-    "Healthcare", "E-commerce", 
-    "FinTech", "Inventory Management"
-  ],
-  funFact: "I've successfully launched over 20+ functional applications!"
-};
-```
-
-* 🔭 `Currently working on enterprise-level report UIs and micro front-ends at Infosys.`
-* 🌱 `Learning AWS (Cloud Practitioner) to master cloud-native development.`
-* 🧠 `Strong experience with React.js, Node.js, Laravel and CodeIgniter.`
-* ⚡ `Passionate about code optimization and building scalable architectures.`[cite: 1]
-* 🎯 `Goal: Leverage 20+ app launches to build high-impact global software.`[cite: 1]
-
----
-
 ### 🛠 Tech Stack & Tools
 
 | Frontend | Backend | Database | Cloud & DevOps | Version Control | Other Tools |
